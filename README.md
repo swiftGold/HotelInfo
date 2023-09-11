@@ -6,6 +6,8 @@ Architecture: MVVM + coordinator;
 
 Network: Async await
 
+<img src="https://github.com/swiftGold/HotelInfo/assets/112863601/506b025d-c515-42cf-9b58-39ded1421e89" width="500">
+
 ![Simulator Screen Shot - iPhone 14 Pro - 2023-09-11 at 10 54 07](https://github.com/swiftGold/HotelInfo/assets/112863601/506b025d-c515-42cf-9b58-39ded1421e89)
 
 ![Simulator Screen Shot - iPhone 14 Pro - 2023-09-11 at 10 54 12](https://github.com/swiftGold/HotelInfo/assets/112863601/98218404-5c4d-4de8-84f9-fb5f9a982a48)
