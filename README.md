@@ -10,7 +10,11 @@ Network: Async await
 
 
 
+
+
 <img src="https://github.com/swiftGold/HotelInfo/assets/112863601/98218404-5c4d-4de8-84f9-fb5f9a982a48" width="300">
+
+
 
 
 
@@ -18,7 +22,11 @@ Network: Async await
 
 
 
+
+
 <img src="https://github.com/swiftGold/HotelInfo/assets/112863601/5898e410-dc03-4a5d-82e7-282f6da4c3d4" width="300">
+
+
 
 
 
@@ -26,8 +34,14 @@ Network: Async await
 
 
 
+
+
 <img src="https://github.com/swiftGold/HotelInfo/assets/112863601/95a4841a-8ebd-4e7d-8232-afaf4124a6b9" width="300">
 
 
 
+
+
 <img src="https://github.com/swiftGold/HotelInfo/assets/112863601/5c882e40-87dd-456c-8b2b-344438544a7a" width="300">
+
+
