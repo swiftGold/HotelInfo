@@ -1,7 +1,9 @@
 # HotelInfo
 
 Application for hotel and room selection.
-Architecture: MVVM + coordinator
+
+Architecture: MVVM + coordinator; 
+
 Network: Async await
 
 ![Simulator Screen Shot - iPhone 14 Pro - 2023-09-11 at 10 54 07](https://github.com/swiftGold/HotelInfo/assets/112863601/506b025d-c515-42cf-9b58-39ded1421e89)
